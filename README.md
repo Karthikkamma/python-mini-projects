@@ -1,4 +1,4 @@
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+this project is done by karthik<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
@@ -198,3 +198,4 @@ SR No   | Project | Author
 101 | [Whatsapp Bot](https://github.com/Python-World/python-mini-projects/tree/master/projects/whatsapp_Bot)| [urmil89](https://github.com/urmil89)
 102 | [Zip Bruter](https://github.com/Python-World/python-mini-projects/tree/master/projects/Zip_Bruter) | [Erdoğan YOKSUL](https://www.github.com/eredotpkfr)
 103 | [CountDown Timer](https://github.com/Python-World/python-mini-projects/tree/master/projects/Countdown_timer) | [Japneet Kalra](https://github.com/japneetsingh035)
+this project is done by karthik
